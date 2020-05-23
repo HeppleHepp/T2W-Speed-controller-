@@ -1,0 +1,10 @@
+RadioHead Library Installation:
+
+If you are reading this then you have already extracted the files somewhere, however, you need to move the extracted 
+Folder  that is named "RadioHead" into the arduino Library folder. 
+
+goto:
+Local Disk (where ever arduino IDE is installed) ----> Program Files (x86) ----> Arduino ----> Library (move here)
+
+If you have an arduino that is a third party device (knock off version of arduino e.g. elegoo or sparkfun) then you
+might have external drivers you need to install. Otherwise, the SPI.h and LoRa.h  should be ready to go... Have Fun!
